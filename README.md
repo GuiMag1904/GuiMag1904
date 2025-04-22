@@ -40,7 +40,7 @@ Sou apaixonado por resolver problemas com código. Atualmente estudo programaç�
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermesanchesmagdalena&show_icons=true&theme=dark" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuiMag1904&show_icons=true&theme=dark" alt="github stats" />
 </p>
 
 ---
