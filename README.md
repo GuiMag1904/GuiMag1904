@@ -14,7 +14,6 @@ Sou apaixonado por resolver problemas com código. Atualmente estudo programaç�
 
 - 🌱 Atualmente estudando: Java, Python, Node.js, React, MongoDB, Docker e APIs REST
 - 🎯 Buscando minha primeira oportunidade como Dev Júnior
-- 📫 Contato: guilhermesmagdalena.dev@gmail.com
 
 ---
 
