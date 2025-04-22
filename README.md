@@ -32,8 +32,8 @@ Sou apaixonado por resolver problemas com código. Atualmente estudo programaç�
 ## 📂 Projetos em destaque
 
 <!--- - 🔐 [Controle de Acesso com Logs e Filtros (React + JSON)](https://github.com/0toco12/logs-acesso-react) -->
-- 📦 [Montador de Palete em Python com Interface Gráfica]([https://github.com/0toco12/montador-de-palete](https://github.com/GuiMag1904/MontadorDePalete))
-- 📄 [Projeto feito para o concurso Agrinho 2024]([https://github.com/0toco12/gerador-qr-code](https://github.com/GuiMag1904/saboresDaTerra))
+- 📦 [Montador de Palete em Python com Interface Gráfica](https://github.com/GuiMag1904/MontadorDePalete)
+- 📄 [Projeto feito para o concurso Agrinho 2024](https://github.com/GuiMag1904/saboresDaTerra)
 
 ---
 
