@@ -10,10 +10,10 @@
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por resolver problemas com código. Atualmente estudo programação e desenvolvimento de sistemas com foco em me tornar um desenvolvedor completo. Gosto de construir soluções úteis que realmente ajudam as pessoas no dia a dia.
 
-- 🌱 Atualmente estudando: Java, Python, Node.js, React, MongoDB, Docker e APIs REST
-- 🎯 Buscando minha primeira oportunidade como Dev Júnior
+Atualmente, estou cursando Engenharia de Software pela instituição de ensino Unicesumar, também estudo Desenvolvimento Full Stack, com foco em Back-End, Banco de Dados e Redes, áreas que mais despertam meu interesse. Tenho experiência prática com Node.js, MongoDB, React, Python, e também já desenvolvi projetos com Java.
+Gosto de resolver problemas com código e transformar ideias em soluções funcionais. Já criei sistemas como geradores de QR Code com impressão automática, controle de acessos com filtros, e APIs conectadas a bancos de dados.
+Meu objetivo é crescer como desenvolvedor, colaborar em projetos reais e evoluir constantemente. Estou sempre em busca de novos desafios e oportunidades que me ajudem a aprender mais.
 
 ---
 
