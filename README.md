@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Desenvolvedor Full Stack em formação <br/>
-🎯 Focado em Back-End, Bancos de Dados e Redes <br/>
+🎯 Focado em Back-End e Bancos de Dados <br/>
 🚀 Em transição de carreira e construindo projetos reais com Node.js, React, MongoDB e Python
 </p>
 
@@ -11,7 +11,7 @@
 ## 🧠 Sobre mim
 
 
-Atualmente, estou cursando Engenharia de Software pela instituição de ensino Unicesumar, também estudo Desenvolvimento Full Stack, com foco em Back-End, Banco de Dados e Redes, áreas que mais despertam meu interesse. Tenho experiência prática com Node.js, MongoDB, React, Python, e também já desenvolvi projetos com Java.
+Atualmente, estou cursando Engenharia de Software pela instituição de ensino Anhanguera, também estudo Desenvolvimento Full Stack, com foco em Back-End e Banco de Dados, áreas que mais despertam meu interesse. Tenho experiência prática com Node.js, MongoDB, React, Python, e também já desenvolvi projetos com Java.
 
 Gosto de resolver problemas com código e transformar ideias em soluções funcionais. Já criei sistemas como geradores de QR Code com impressão automática, controle de acessos com filtros, e APIs conectadas a bancos de dados.
 
@@ -35,7 +35,7 @@ Meu objetivo é crescer como desenvolvedor, colaborar em projetos reais e evolui
 <!--- - 🔐 [Controle de Acesso com Logs e Filtros (React + JSON)](https://github.com/0toco12/logs-acesso-react) -->
 - 📦 [Montador de Palete em Python com Interface Gráfica](https://github.com/GuiMag1904/MontadorDePalete)
 - 📄 [Projeto feito para o concurso Agrinho 2024](https://github.com/GuiMag1904/saboresDaTerra)
-
+- 🤖 [Agente de AI do evento NLW Agents](https://github.com/GuiMag1904/NLW_Agents)
 ---
 
 ## 📊 Estatísticas do GitHub
