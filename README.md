@@ -1,9 +1,8 @@
 <h1 align="center">👋 Olá, eu sou o Guilherme Sanches Magdalena</h1>
 
 <p align="center">
-💻 Desenvolvedor Full Stack em formação <br/>
-🎯 Focado em Back-End e Bancos de Dados <br/>
-🚀 Em transição de carreira e construindo projetos reais com Node.js, React, MongoDB e Python
+💻 Desenvolvedor Back-End em formação <br/>
+🚀 Em transição de carreira e construindo projetos reais com Java e Spring Boot.
 </p>
 
 ---
@@ -11,7 +10,7 @@
 ## 🧠 Sobre mim
 
 
-Atualmente, estou cursando Engenharia de Software pela instituição de ensino Anhanguera, também estudo Desenvolvimento Full Stack, com foco em Back-End e Banco de Dados, áreas que mais despertam meu interesse. Tenho experiência prática com Node.js, MongoDB, React, Python, e também já desenvolvi projetos com Java.
+Atualmente, estou cursando Engenharia de Software pela instituição de ensino Anhanguera, também estudo Desenvolvimento Back-End. Tenho experiência prática com Node.js, MongoDB, React, Python, e também já desenvolvi projetos com Java.
 
 Gosto de resolver problemas com código e transformar ideias em soluções funcionais. Já criei sistemas como geradores de QR Code com impressão automática, controle de acessos com filtros, e APIs conectadas a bancos de dados.
 
@@ -21,9 +20,7 @@ Meu objetivo é crescer como desenvolvedor, colaborar em projetos reais e evolui
 
 ## 🚀 Tecnologias e Ferramentas
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
